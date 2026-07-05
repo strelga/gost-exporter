@@ -1,0 +1,5 @@
+gost-exporter
+*.exe
+*.test
+*.out
+vendor/
